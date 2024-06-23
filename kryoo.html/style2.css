@@ -1,0 +1,20 @@
+ul {
+    background-color: tomato;
+ display: flex;
+ font-size: 200%;   
+ height: 100px;
+ justify-content: center;
+ align-items: center;
+}
+
+li {
+    padding: 20px;
+    margin: 20px;
+    background-color: wheat;
+    list-style-type: none;
+    border-radius: 50px;
+}
+
+.pee {
+    background-color: blue;
+}
